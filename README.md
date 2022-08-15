@@ -7,7 +7,7 @@
 ## **ETAPAS DO PROJETO** 📂
 
 1. ENCONTRAR UMA FONTE DE DADOS.
-    `Disponível no Kaggle: https://www.kaggle.com/datahackers/pesquisa-data-hackers-2019`
+    `Disponível no Kaggle: https://www.kaggle.com/datasets/datahackers/state-of-data-2021`
 2. ANALISE EXPLORATORIA (EDA).
 3. IMPLEMENTAR UMA SOLUÇÃO DE MACHINE LEARNING.
 4. CRIAR UM WEB-APP PARA UTILIZAÇÃO AMIGÁVEL DO MODELO.
