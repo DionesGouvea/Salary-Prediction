@@ -1,6 +1,6 @@
 # Modelo para Precificação de Salários para Profissionais de Dados 💸
 
-## **Objetivo**: Propor um modelo que apresente um valor adequado para o salário de um profissional de dados, dado as suas informações cadastrais, experiência, contexto etc, e permita a utilização desse modelo por qualquer usuário no mundo! 
+## **Objetivo**: Propor um modelo que apresente um valor adequado para o salário de um profissional de dados, dado as suas informações cadastrais, experiência, contexto etc, e permita a utilização desse modelo por qualquer usuário!
 ---
 
 
